@@ -3,7 +3,7 @@ I am currently working on artificial intelligence and machine learning<br><br>I 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mert-%C3%A7e%C3%A7en-4ba685207/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-cecen/?originalSubdomain=tr) 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yHBFEYEAAAAJ&hl=tr)
 
 # 💻 Tech Stack:
