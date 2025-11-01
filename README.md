@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on artificial intelligence and machine learning<br><br>I am actively learning java, python languages and google colaboratory technology
+I have been actively involved in information technology and computer systems since my undergraduate years in Computer Engineering. I placed great importance on academic achievement, successfully completing my Bachelor's degree with a 3.40 GPA, graduating as the second-highest ranked student in my department, which validates my proficiency in this field. This rigorous work ethic allows me to maintain focus and successfully complete tasks in long-term projects.
+
+My current career focus and interests are firmly directed toward Artificial Intelligence (AI) and Machine Learning (ML). To build upon my expertise in these dynamic areas, I am developing my foundational skills in essential programming languages, specifically Java and Python, and effectively utilizing cutting-edge tools such as Google Colaboratory for practical application development.
 
 
 ## 🌐 Socials:
